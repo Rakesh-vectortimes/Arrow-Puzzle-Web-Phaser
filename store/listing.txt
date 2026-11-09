@@ -1,0 +1,21 @@
+Title: Arrow Escape
+Category: Puzzle
+Engine: Phaser
+Languages: English
+Orientation: Portrait and landscape
+Devices: Desktop, Android, iOS
+
+Short description:
+Guide every arrow off the board. Tap an arrow to slide it out, and plan the order so nothing blocks the way.
+
+Long description:
+Arrow Escape is a calm puzzle about clearing a crowded board one arrow at a time. Each arrow travels in the direction it points. If the path is open, it slides away. If another arrow is in the way, it bumps back and you lose a heart.
+
+Clear the whole board to finish the level. You start with three hearts, and the stars you earn depend on how many hearts you have left. Hints and path guides are there when a board gets tangled. Your progress is saved, so you can leave and continue from the next unlocked level.
+
+How to play:
+Tap an arrow to send it off the board in the direction it points.
+An arrow only leaves if its path is clear. A blocked arrow bumps back and costs one heart.
+Clear every arrow to complete the level. Lose all three hearts and the level ends.
+Use Hint if you want a nudge, and Paths to see where each arrow is heading.
+Finish a level to unlock the next one.
